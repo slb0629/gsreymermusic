@@ -27,19 +27,19 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Iwant You Back",                // title ng kanta 
-     path: "Songs/5-Iwantyouback.mp3",      // mp3
+     path: "SONGS/5-Iwantyouback.mp3",      // mp3
      img: "Cover/51-Iwantyouback.jpg",      // cover
      singer: "Matthaios"                    // author
    },
    {
      name: "Maikee's Letters",              // title ng kanta
-     path: "songs/5-Maikee's letters.mp3",  // mp3
+     path: "SONGS/5-Maikee's letters.mp3",  // mp3
      img: "Cover/52-Maikee's letters.jpg",  // cover
      singer: "Just Hush"                    // author
    },
    {
      name: "Vibe with me",                  // title ng kanta
-     path: "songs/5-Vibewithme.mp3",        // mp3
+     path: "SONGS/5-Vibewithme.mp3",        // mp3
      img: "COVER/53-Vibewithme.jpg",        // cover
      singer: "Matthaios"                    // author
    },
