@@ -38,7 +38,7 @@ let All_song = [
      img: "COVER/42-ANTUKIN.jpg",    	// cover
      singer: "Rico Blanco"          	// author
    },
-   {
+   { 
      name: "Hari ng Sablay",        	// title ng kanta
      path: "SONGS/4-HnS.mp3",         	// mp3
      img: "COVER/43-HnS.jpg",        	// cover
