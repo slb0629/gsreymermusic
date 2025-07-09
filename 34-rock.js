@@ -28,19 +28,19 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "MIgraine",              	// title ng kanta 
-     path: "songs/4-migraine.mp3",    	// mp3
+     path: "SONGS/4-migraine.mp3",    	// mp3
      img: "COVER/41-MIGRAINE.jpg",   	// cover
      singer: "Moonstar 88"          	// author
    },
    {
      name: "Antukin",               	// title ng kanta
-     path: "songs/4-antukin.mp3",     	// mp3
+     path: "SONGS/4-antukin.mp3",     	// mp3
      img: "COVER/42-ANTUKIN.jpg",    	// cover
      singer: "Rico Blanco"          	// author
    },
    {
      name: "Hari ng Sablay",        	// title ng kanta
-     path: "songs/4-HnS.mp3",         	// mp3
+     path: "SONGS/4-HnS.mp3",         	// mp3
      img: "COVER/43-HnS.jpg",        	// cover
      singer: "Sugarfree"            	// author
    },
