@@ -26,23 +26,96 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Di Na Mag Iisa",                // title ng kanta 
-     path: "SONGS/1-Di Na Mag Iisa.mp3",    // mp3
-     img: "COVER/11-Di Na Mag Iisa.png",    // cover
-     singer: "Nobita"                       // author
+     name: "All to Well",                       // title ng kanta 
+     path: "Ella/All-to-Well.mp3",              // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
    },
    {
-     name: "Pano",                          // title ng kanta
-     path: "SONGS/1-Pano.mp3",              // mp3
-     img: "COVER/12-Pano.png",              // cover
-     singer: "Zack Tabudlo"                 // author
+     name: "Anti-Hero",                         // title ng kanta 
+     path: "Ella/Anti-Hero.mp3",                // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
    },
    {
-     name: "Upuan",                         // title ng kanta
-     path: "SONGS/1-Upuan.mp3",             // mp3
-     img: "COVER/13-Upuan.jfif",            // cover
-     singer: "ben & ben"                    // author
+     name: "August",                            // title ng kanta 
+     path: "Ella/August.mp3",                   // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
    },
+   {
+     name: "Back to December",                  // title ng kanta 
+     path: "Ella/Back-to-December.mp3",         // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Cardigan",                          // title ng kanta 
+     path: "Ella/Cardigan.mp3",                 // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Cornelia Street",                   // title ng kanta 
+     path: "Ella/Cornelia-Street.mp3",          // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Enchanted",                         // title ng kanta 
+     path: "Ella/Enchanted.mp3",                // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Everything has changed",            // title ng kanta 
+     path: "Ella/Everything-has-changed.mp3",   // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Fearless",                          // title ng kanta 
+     path: "Ella/Fearless.mp3",                 // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Foolish One",                       // title ng kanta 
+     path: "Ella/Foolish-One.mp3",              // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Getaway Car",                       // title ng kanta 
+     path: "Ella/Getaway-Car.mp3",              // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Paper Rings",                       // title ng kanta 
+     path: "Ella/Paper-Rings.mp3",              // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Style",                             // title ng kanta 
+     path: "Ella/Style.mp3",                    // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "Willow",                            // title ng kanta 
+     path: "Ella/Willow.mp3",                   // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   {
+     name: "You're on your own kid",            // title ng kanta 
+     path: "Ella/You're-on-your-own-kid.mp3",   // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
+   
 ];
 
 // All functions
