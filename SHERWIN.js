@@ -97,6 +97,120 @@ let All_song = [
     img: "COVER/33-NanditoNa.png",     // cover
     singer: "Kiyo"                     // author
   },
+  {
+    name: "About You",                // title ng kanta
+    path: "SHERWIN/About-You.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Bad",                // title ng kanta
+    path: "SHERWIN/Bad.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Love",                // title ng kanta
+    path: "SHERWIN/Love.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Seasons",                // title ng kanta
+    path: "SHERWIN/Seasons.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Birds of a Feather",                // title ng kanta
+    path: "SHERWIN/Birds-of-a-Feather.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Blue",                // title ng kanta
+    path: "SHERWIN/Blue.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Multo",                // title ng kanta
+    path: "SHERWIN/Multo.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "The Way Things Go",                // title ng kanta
+    path: "SHERWIN/The-Way-Things-Go.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Take a Chance With Me",                // title ng kanta
+    path: "SHERWIN/Take-a-Chance-With-Me.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Sofia",                // title ng kanta
+    path: "SHERWIN/Sofia.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Teenage Dirtbag",                // title ng kanta
+    path: "SHERWIN/Teenage-Dirtbag.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "I Love You So",                // title ng kanta
+    path: "SHERWIN/I-Love-You-So.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Come Inside Of My Heart",                // title ng kanta
+    path: "SHERWIN/Come-Inside-Of-My-Heart.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Sino",                // title ng kanta
+    path: "SHERWIN/Sino.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Majiko",                // title ng kanta
+    path: "SHERWIN/Majiko.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Prom-Dress",                // title ng kanta
+    path: "SHERWIN/Prom-Dress.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Daylight",                // title ng kanta
+    path: "SHERWIN/Daylight.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Piano-Man",                // title ng kanta
+    path: "SHERWIN/Piano-Man.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Leonora",                // title ng kanta
+    path: "SHERWIN/Leonora.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
 ];
 
 // All functions
