@@ -115,7 +115,12 @@ let All_song = [
      img: "COVER/11-Di Na Mag Iisa.png",        // cover
      singer: "Taylor Swift"                     // author
    },
-   
+   {
+     name: "Daylight",                          // title ng kanta 
+     path: "Ella/Daylight.mp3",                 // mp3
+     img: "COVER/11-Di Na Mag Iisa.png",        // cover
+     singer: "Taylor Swift"                     // author
+   },
 ];
 
 // All functions
