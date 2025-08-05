@@ -26,22 +26,34 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Ikaw Lamang",                       // title ng kanta 
-     path: "SONGS/2-ikaw_lamang.mp3",           // mp3
+     name: "Be Still And Know",                       // title ng kanta 
+     path: "Worship/Be-Still-And-Know.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
-     name: "Sana Kahit Minsan",                 // title ng kanta
-     path: "SONGS/2-Sana kahit minsan.mp3",     // mp3
-     img: "COVER/22-Sana kahit minsan.jpeg",    // cover
-     singer: "Lani Misalucha"                   // author
+     name: "Matthew 6",                       // title ng kanta 
+     path: "Worship/Matthew-6.mp3",           // mp3
+     img: "COVER/21-ikaw_lamang.jpg",           // cover
+     singer: "jaya"                             // author
    },
    {
-     name: "So Slow",                           // title ng kanta
-     path: "SONGS/2-so_slow.mp3",               // mp3
-     img: "COVER/23-so_slow.jpeg",              // cover
-     singer: "Freestyle"                        // author
+     name: "Old Clothes",                       // title ng kanta 
+     path: "Worship/Old-Clothes.mp3",           // mp3
+     img: "COVER/21-ikaw_lamang.jpg",           // cover
+     singer: "jaya"                             // author
+   },
+   {
+     name: "See You Again",                       // title ng kanta 
+     path: "Worship/See-You-Again.mp3",           // mp3
+     img: "COVER/21-ikaw_lamang.jpg",           // cover
+     singer: "jaya"                             // author
+   },
+   {
+     name: "The Goodness",                       // title ng kanta 
+     path: "Worship/The-Goodness.mp3",           // mp3
+     img: "COVER/21-ikaw_lamang.jpg",           // cover
+     singer: "jaya"                             // author
    },
 ];
 
