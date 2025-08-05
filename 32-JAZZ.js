@@ -27,31 +27,31 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Be Still And Know",                       // title ng kanta 
-     path: "Worship/Be-Still-And-Know.mp3",           // mp3
+     path: "worship/Be-Still-And-Know.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "Matthew 6",                       // title ng kanta 
-     path: "Worship/Matthew-6.mp3",           // mp3
+     path: "worship/Matthew-6.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "Old Clothes",                       // title ng kanta 
-     path: "Worship/Old-Clothes.mp3",           // mp3
+     path: "worship/Old-Clothes.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "See You Again",                       // title ng kanta 
-     path: "Worship/See-You-Again.mp3",           // mp3
+     path: "worship/See-You-Again.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "The Goodness",                       // title ng kanta 
-     path: "Worship/The-Goodness.mp3",           // mp3
+     path: "worship/The-Goodness.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
@@ -184,3 +184,4 @@ function range_slider(){
            }
         }
      }
+
