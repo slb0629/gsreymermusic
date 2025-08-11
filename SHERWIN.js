@@ -211,6 +211,36 @@ let All_song = [
     img: "COVER/33-NanditoNa.png",     // cover
     singer: "Kiyo"                     // author
   },
+  {
+    name: "Samson",                // title ng kanta
+    path: "SHERWIN/Samson.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Eulogy For Nobody",                // title ng kanta
+    path: "SHERWIN/Eulogy-For-Nobody.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Brautiful Things",                // title ng kanta
+    path: "SHERWIN/Brautiful-Things.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "Stick Season",                // title ng kanta
+    path: "SHERWIN/Stick-Season.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
+  {
+    name: "The Roads",                // title ng kanta
+    path: "SHERWIN/The-Roads.mp3",     // mp3
+    img: "COVER/33-NanditoNa.png",     // cover
+    singer: "Kiyo"                     // author
+  },
 ];
 
 // All functions
