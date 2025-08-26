@@ -27,55 +27,55 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Be Still And Know",                       // title ng kanta 
-     path: "Worship/Be-Still-And-Know.mp3",           // mp3
+     path: "worship/Be-Still-And-Know.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "Matthew 6",                       // title ng kanta 
-     path: "Worship/Matthew-6.mp3",           // mp3
+     path: "worship/Matthew-6.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "Old Clothes",                       // title ng kanta 
-     path: "Worship/Old-Clothes.mp3",           // mp3
+     path: "worship/Old-Clothes.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "See You Again",                       // title ng kanta 
-     path: "Worship/See-You-Again.mp3",           // mp3
+     path: "worship/See-You-Again.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "The Goodness",                       // title ng kanta 
-     path: "Worship/The-Goodness.mp3",           // mp3
+     path: "worship/The-Goodness.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "Miracle",                       // title ng kanta 
-     path: "Worship/Miracle.mp3",           // mp3
+     path: "worship/Miracle.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "God's Got My Back",                       // title ng kanta 
-     path: "Worship/God's-Got-My-Back.mp3",           // mp3
+     path: "worship/God's-Got-My-Back.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "Good Day",                       // title ng kanta 
-     path: "Worship/Good-Day.mp3",           // mp3
+     path: "worship/Good-Day.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
    {
      name: "Selah",                       // title ng kanta 
-     path: "Worship/Selah.mp3",           // mp3
+     path: "worship/Selah.mp3",           // mp3
      img: "COVER/21-ikaw_lamang.jpg",           // cover
      singer: "jaya"                             // author
    },
@@ -208,3 +208,4 @@ function range_slider(){
            }
         }
      }
+
